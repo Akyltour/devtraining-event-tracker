@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0c43bd0bc61122750182c132c841ce72</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_spkg">
+    <cmdb_ci_spkg action="INSERT_OR_UPDATE">
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc/>
+        <cost_center/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <install_count>21</install_count>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <key>Developer Studio_:::_98</key>
+        <last_discovered/>
+        <lease_id/>
+        <license_available>-21</license_available>
+        <license_count/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer display_value="Microsoft">0e8b8e650a0a0b3b004f285ffbb1a4fc</manufacturer>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <msft_sms_id/>
+        <name>Developer Studio</name>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <package_name>Developer Studio 98</package_name>
+        <part_of/>
+        <po_number/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_spkg</sys_class_name>
+        <sys_class_path>/!!/#,</sys_class_path>
+        <sys_created_by>guest</sys_created_by>
+        <sys_created_on>2005-05-24 01:14:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0c43bd0bc61122750182c132c841ce72</sys_id>
+        <sys_mod_count>37</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-17 03:01:49</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor/>
+        <version>98</version>
+        <warranty_expiration/>
+    </cmdb_ci_spkg>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-19 13:31:58</sys_created_on>
+        <sys_id>a7b697ec9728251054c27bc11153afa4</sys_id>
+        <sys_name>Developer Studio</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_a7b697ec9728251054c27bc11153afa4</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

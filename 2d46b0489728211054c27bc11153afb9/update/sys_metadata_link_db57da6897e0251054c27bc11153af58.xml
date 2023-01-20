@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4ec08374dbd04010f777526adc9619ec</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_business_app">
+    <cmdb_ci_business_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <active_user_count/>
+        <age/>
+        <apm_business_process display_value="">e5708fb39320220028517a75e57ffb0d</apm_business_process>
+        <application_manager/>
+        <application_type>cots</application_type>
+        <appraisal_fiscal_type/>
+        <architecture_type>web</architecture_type>
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <audience_type/>
+        <business_criticality/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category/>
+        <certified>false</certified>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <cmdb_software_product_model/>
+        <comments/>
+        <company/>
+        <contract_end_date/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <currency/>
+        <data_classification/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <emergency_tier/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <install_type>cloud</install_type>
+        <invoice_number/>
+        <ip_address/>
+        <it_application_owner display_value="Mari Hwang">b5826bf03710200044e0bfc8bcbe5d30</it_application_owner>
+        <justification/>
+        <last_change_date/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer display_value="">b5db5fdbdba312003b9cffefbf961953</manufacturer>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>Darwin</name>
+        <next_assessment_date/>
+        <number>APM0001020</number>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <organization_unit_count/>
+        <owned_by display_value="Sadie Rowlett">52826bf03710200044e0bfc8bcbe5dad</owned_by>
+        <platform/>
+        <platform_host/>
+        <po_number/>
+        <product_support_status/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <software_license/>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <support_vendor/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_business_app</sys_class_name>
+        <sys_class_path>/!!/!Q</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-02 19:11:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4ec08374dbd04010f777526adc9619ec</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 16:26:23</sys_updated_on>
+        <technology_stack/>
+        <unverified>false</unverified>
+        <url/>
+        <user_base>1000</user_base>
+        <vendor/>
+        <warranty_expiration/>
+        <work_notes/>
+    </cmdb_ci_business_app>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-19 08:55:03</sys_created_on>
+        <sys_id>db57da6897e0251054c27bc11153af58</sys_id>
+        <sys_name>Darwin</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_db57da6897e0251054c27bc11153af58</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

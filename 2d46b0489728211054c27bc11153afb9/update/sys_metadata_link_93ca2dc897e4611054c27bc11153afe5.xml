@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>821c54f0c0a8018b638d70642125c07b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_printer">
+    <cmdb_ci_printer action="INSERT_OR_UPDATE">
+        <asset display_value="P1000130 - Brother Network-Ready Color Laser Printer">abc1fa8837f3100044e0bfc8bcbe5dd0</asset>
+        <asset_tag>P1000130</asset_tag>
+        <assigned>2022-01-04 07:00:00</assigned>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>Do not migrate to asset</category>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <color>false</color>
+        <colors/>
+        <comments/>
+        <company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+        <correlation_id/>
+        <cost>399.5</cost>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <default_gateway/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <hardware_status>pending_transfer</hardware_status>
+        <hardware_substatus>available</hardware_substatus>
+        <horizontal_resolution/>
+        <install_date>2021-08-04 07:00:00</install_date>
+        <install_status/>
+        <internet_facing>false</internet_facing>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location display_value="815 E Street, San Diego,CA">f90e06af0a0a0b9100a6defd15c548e9</location>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer display_value="Brother">8218f1ecc0a8018b1bbea3b03f92b33e</manufacturer>
+        <model_id display_value="Brother Network-Ready Color Laser Printer">f8fdc4df0a0a0b91009008b52d01b55d</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <most_frequent_user/>
+        <name>Brother HL-2170W Personal Standard Mono Laser Printer</name>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <paper/>
+        <pcl>false</pcl>
+        <po_number/>
+        <postscript>false</postscript>
+        <ppm/>
+        <print_type>Dot Matrix</print_type>
+        <purchase_date/>
+        <resolution_units/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_printer</sys_class_name>
+        <sys_class_path>/!!/!2/!*</sys_class_path>
+        <sys_created_by>dariusz.maint</sys_created_by>
+        <sys_created_on>2011-09-14 10:06:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>821c54f0c0a8018b638d70642125c07b</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-17 02:58:58</sys_updated_on>
+        <unverified>false</unverified>
+        <use_count/>
+        <use_units/>
+        <vendor display_value="Amazon">adb3d8ce37413000158bbfc8bcbe5d15</vendor>
+        <vertical_resolution/>
+        <warranty_expiration/>
+    </cmdb_ci_printer>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-17 16:23:24</sys_created_on>
+        <sys_id>93ca2dc897e4611054c27bc11153afe5</sys_id>
+        <sys_name>Brother HL-2170W Personal Standard Mono Laser Printer</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_93ca2dc897e4611054c27bc11153afe5</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

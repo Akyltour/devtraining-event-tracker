@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2e7f5eda3720200044e0bfc8bcbe5d92</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_rack">
+    <cmdb_ci_rack action="INSERT_OR_UPDATE">
+        <asset display_value="P1000142 - APC 42U 3100 SP2 NetShelter Rack">3bc1fa8837f3100044e0bfc8bcbe5df7</asset>
+        <asset_tag>P1000142</asset_tag>
+        <assigned>2021-12-16 08:00:00</assigned>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>General</category>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company display_value="ACME Corporation">e7c1f3d53790200044e0bfc8bcbe5deb</company>
+        <correlation_id/>
+        <cost>0</cost>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <footprint>0</footprint>
+        <fqdn/>
+        <gl_account/>
+        <install_date>2021-07-05 07:00:00</install_date>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location display_value="3 Whitehall Court, London">8225b668ac1d55eb679878e192fca315</location>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by display_value="Don Goodliffe">9ee1b13dc6112271007f9d0efdb69cd0</managed_by>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id display_value="APC 42U 3100 SP2 NetShelter Rack">e9aaeb3f3763100044e0bfc8bcbe5db5</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>42U 3100 SP2 NetShelter Rack</name>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <po_number/>
+        <power_consumption>0</power_consumption>
+        <purchase_date/>
+        <rack_units>30</rack_units>
+        <rack_units_in_use>0</rack_units_in_use>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory>Rack</subcategory>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_rack</sys_class_name>
+        <sys_class_path>/!!/!|</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2012-03-06 00:18:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2e7f5eda3720200044e0bfc8bcbe5d92</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-17 02:58:16</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor display_value="Cloudward Inc">3efe8c4c37423000158bbfc8bcbe5d7d</vendor>
+        <warranty_expiration/>
+    </cmdb_ci_rack>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-17 13:10:28</sys_created_on>
+        <sys_id>95ae384897e8211054c27bc11153af55</sys_id>
+        <sys_name>42U 3100 SP2 NetShelter Rack</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_95ae384897e8211054c27bc11153af55</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

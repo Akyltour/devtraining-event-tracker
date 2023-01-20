@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>27d3f35cc0a8000b001df42d019a418f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_service">
+    <cmdb_ci_service action="INSERT_OR_UPDATE">
+        <aliases/>
+        <asset display_value="Unknown">7fc13e8837f3100044e0bfc8bcbe5d17</asset>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <busines_criticality>1 - most critical</busines_criticality>
+        <business_contact/>
+        <business_need/>
+        <business_relation_manager/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>Business Service</category>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <checkout/>
+        <comments/>
+        <company/>
+        <compatibility_dependencies/>
+        <consumer_type/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <delivery_date/>
+        <delivery_manager/>
+        <department/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <end_date/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <last_review_date/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location display_value="150 Kennedy Road, Hong Kong">2bfc77993790200044e0bfc8bcbe5d2f</location>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by display_value="Wilmer Constantineau">42826bf03710200044e0bfc8bcbe5d7b</managed_by>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id display_value="Unknown">e8aaeb3f3763100044e0bfc8bcbe5d20</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <monitoring_requirements/>
+        <name>Blackberry</name>
+        <number/>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by display_value="Jerrod Bennett">5b7c200d0a640069006b3845b5d0fa7c</owned_by>
+        <parent/>
+        <po_number/>
+        <portfolio_status/>
+        <prerequisites/>
+        <price_model/>
+        <price_unit/>
+        <published_ref/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <service_classification>Business Service</service_classification>
+        <service_level_requirement/>
+        <service_owner_delegate/>
+        <service_status/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <sla/>
+        <spm_service_portfolio/>
+        <spm_taxonomy_node/>
+        <stakeholders/>
+        <start_date/>
+        <state/>
+        <subcategory>Service</subcategory>
+        <support_group display_value="Capacity Mgmt" name="Capacity Mgmt">aaccc971c0a8001500fe1ff4302de101</support_group>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_service</sys_class_name>
+        <sys_class_path>/!!/!7</sys_class_path>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2007-11-10 04:31:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>27d3f35cc0a8000b001df42d019a418f</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-08-11 21:07:57</sys_updated_on>
+        <unit_description/>
+        <unverified>false</unverified>
+        <used_for>Staging</used_for>
+        <user_group/>
+        <vendor/>
+        <version>1.1</version>
+        <warranty_expiration/>
+    </cmdb_ci_service>
+    <sys_translated_text action="delete_multiple" query="documentkey=27d3f35cc0a8000b001df42d019a418f"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-17 16:02:07</sys_created_on>
+        <sys_id>6be5ed4c97a0611054c27bc11153af03</sys_id>
+        <sys_name>Blackberry</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_6be5ed4c97a0611054c27bc11153af03</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

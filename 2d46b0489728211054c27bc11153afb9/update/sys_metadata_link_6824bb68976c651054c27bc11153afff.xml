@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>62cfa627c0a8010e01f01b87035ba803</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_disk">
+    <cmdb_ci_disk action="INSERT_OR_UPDATE">
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <computer display_value="lnux101">539747cac0a801640163e60735fbbf6e</computer>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <delivery_date/>
+        <department/>
+        <device_bus_id/>
+        <device_host_id/>
+        <device_id>local hd</device_id>
+        <device_interface>ide</device_interface>
+        <device_lun/>
+        <device_major_minor/>
+        <device_target_id/>
+        <discovery_source/>
+        <disk_space>128</disk_space>
+        <dns_domain/>
+        <drive_type>disk</drive_type>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <file_system>ext3</file_system>
+        <first_discovered/>
+        <fqdn/>
+        <free_space>45</free_space>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <interface>ide</interface>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>local hd</name>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <po_number/>
+        <provided_by/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <size>128.0 GB</size>
+        <size_bytes>137438953472</size_bytes>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <storage_type>disk</storage_type>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_disk</sys_class_name>
+        <sys_class_path>/!!/#$/!(</sys_class_path>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2006-07-12 12:56:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>62cfa627c0a8010e01f01b87035ba803</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-17 03:01:48</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor/>
+        <volume_name/>
+        <volume_serial_number/>
+        <warranty_expiration/>
+    </cmdb_ci_disk>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-19 15:40:22</sys_created_on>
+        <sys_id>6824bb68976c651054c27bc11153afff</sys_id>
+        <sys_name>local hd</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_6824bb68976c651054c27bc11153afff</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>
