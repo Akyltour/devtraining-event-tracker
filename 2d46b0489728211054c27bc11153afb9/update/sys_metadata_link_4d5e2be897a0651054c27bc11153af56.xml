@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>469facd7a9fe1981015830c43428ca2d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_computer">
+    <cmdb_ci_computer action="INSERT_OR_UPDATE">
+        <asset display_value="P1000046 - Sony VAIO F Series">83c1ba8837f3100044e0bfc8bcbe5dc1</asset>
+        <asset_tag>P1000046</asset_tag>
+        <assigned>2022-03-19 07:00:00</assigned>
+        <assigned_to display_value="Don Goodliffe">9ee1b13dc6112271007f9d0efdb69cd0</assigned_to>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>Do not migrate to asset</category>
+        <cd_rom>false</cd_rom>
+        <cd_speed/>
+        <change_control/>
+        <chassis_type/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+        <correlation_id/>
+        <cost>924.99</cost>
+        <cost_cc>USD</cost_cc>
+        <cost_center display_value="Engineering">d9d07bddc0a80a647cf932056ed24652</cost_center>
+        <cpu_core_count/>
+        <cpu_core_thread/>
+        <cpu_count>1</cpu_count>
+        <cpu_manufacturer display_value="Intel">7aad6d00c611228400f00e0f80b67d2d</cpu_manufacturer>
+        <cpu_name>Intel(R) Pentium(R) M processor 2.00GHz</cpu_name>
+        <cpu_speed>1998</cpu_speed>
+        <cpu_type/>
+        <default_gateway/>
+        <delivery_date/>
+        <department display_value="Development">221f3db5c6112284009f4becd3039cc9</department>
+        <discovery_source/>
+        <disk_space>51</disk_space>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count/>
+        <first_discovered/>
+        <floppy/>
+        <form_factor/>
+        <fqdn/>
+        <gl_account/>
+        <hardware_status/>
+        <hardware_substatus/>
+        <install_date>2021-11-15 08:00:00</install_date>
+        <install_status/>
+        <internet_facing>false</internet_facing>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location display_value="13308 Midland Road, Poway,CA">f90ad9120a0a0b91005146ebac892a09</location>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer display_value="Sony">7aae6bacc61122840197d63b015021b6</manufacturer>
+        <model_id display_value="Sony VAIO F Series">469fac98a9fe198100a21de3f0677072</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <most_frequent_user/>
+        <name>IBM-T42-DLG</name>
+        <object_id/>
+        <operational_status/>
+        <order_date/>
+        <os>Windows XP Professional</os>
+        <os_address_width/>
+        <os_domain/>
+        <os_service_pack>Service Pack 2</os_service_pack>
+        <os_version>5.1.2600</os_version>
+        <owned_by/>
+        <po_number/>
+        <purchase_date/>
+        <ram>2046</ram>
+        <schedule/>
+        <serial_number>L3CD257</serial_number>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_computer</sys_class_name>
+        <sys_class_path>/!!/!2/!(</sys_class_path>
+        <sys_created_by>don.goodliffe</sys_created_by>
+        <sys_created_on>2006-02-07 22:26:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>469facd7a9fe1981015830c43428ca2d</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-17 02:58:41</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor display_value="Sony">7aae6bacc61122840197d63b015021b6</vendor>
+        <virtual>false</virtual>
+        <warranty_expiration/>
+    </cmdb_ci_computer>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-19 15:15:00</sys_created_on>
+        <sys_id>4d5e2be897a0651054c27bc11153af56</sys_id>
+        <sys_name>IBM-T42-DLG</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_4d5e2be897a0651054c27bc11153af56</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

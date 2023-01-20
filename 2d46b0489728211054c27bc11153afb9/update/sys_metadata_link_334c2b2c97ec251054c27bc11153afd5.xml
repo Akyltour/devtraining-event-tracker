@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2811a2efc0a8000b0069bb464f215ff5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_email_server">
+    <cmdb_ci_email_server action="INSERT_OR_UPDATE">
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <cl_port/>
+        <comments/>
+        <company/>
+        <config_directory/>
+        <config_file/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <edition/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <install_date>2007-11-09 05:38:08</install_date>
+        <install_directory/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <is_clustered>false</is_clustered>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>EXCH-SD-07</name>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <pid/>
+        <po_number/>
+        <provided_by/>
+        <purchase_date/>
+        <rp_command_hash/>
+        <rp_key_parameters_hash/>
+        <running_process_command/>
+        <running_process_key_parameters/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_email_server</sys_class_name>
+        <sys_class_path>/!!/!(/!3/!7</sys_class_path>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2007-11-10 05:39:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2811a2efc0a8000b0069bb464f215ff5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>glide.maint</sys_updated_by>
+        <sys_updated_on>2007-11-10 05:39:12</sys_updated_on>
+        <tcp_port/>
+        <type>Microsoft Exchange</type>
+        <unverified>false</unverified>
+        <used_for>Production</used_for>
+        <vendor/>
+        <version/>
+        <warranty_expiration/>
+    </cmdb_ci_email_server>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-19 15:06:11</sys_created_on>
+        <sys_id>334c2b2c97ec251054c27bc11153afd5</sys_id>
+        <sys_name>EXCH-SD-07</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_334c2b2c97ec251054c27bc11153afd5</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

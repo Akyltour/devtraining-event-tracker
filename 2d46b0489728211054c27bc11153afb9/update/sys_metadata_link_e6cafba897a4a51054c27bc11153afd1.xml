@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c96d6c3d18400300964f2ff0d21a4e13</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_business_capability">
+    <cmdb_ci_business_capability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <hierarchy_id>4.7</hierarchy_id>
+        <hierarchy_level>1</hierarchy_level>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <leaf_node>false</leaf_node>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>Manage the business of information technology</name>
+        <operational_status>1</operational_status>
+        <order/>
+        <order_date/>
+        <owned_by/>
+        <parent display_value="Manage Information Technology">056d6c3d18400300964f2ff0d21a4e13</parent>
+        <po_number/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_business_capability</sys_class_name>
+        <sys_class_path>/!!/#+</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-23 16:01:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c96d6c3d18400300964f2ff0d21a4e13</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-31 17:05:50</sys_updated_on>
+        <unverified>false</unverified>
+        <use_for_assessment>false</use_for_assessment>
+        <vendor/>
+        <warranty_expiration/>
+    </cmdb_ci_business_capability>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-19 16:09:27</sys_created_on>
+        <sys_id>e6cafba897a4a51054c27bc11153afd1</sys_id>
+        <sys_name>Manage the business of information technology</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_e6cafba897a4a51054c27bc11153afd1</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

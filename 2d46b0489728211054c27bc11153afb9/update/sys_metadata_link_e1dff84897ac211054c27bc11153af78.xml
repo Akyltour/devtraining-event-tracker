@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5397fa53c0a8016400f562cb29027855</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_web_server">
+    <cmdb_ci_web_server action="INSERT_OR_UPDATE">
+        <asset display_value="Unknown">00c13e8837f3100044e0bfc8bcbe5d4d</asset>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <cl_port/>
+        <comments/>
+        <company/>
+        <config_directory/>
+        <config_file/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <edition/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_directory/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <is_clustered>false</is_clustered>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>apache linux ny 100</name>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <pid/>
+        <po_number/>
+        <provided_by/>
+        <purchase_date/>
+        <rp_command_hash/>
+        <rp_key_parameters_hash/>
+        <running_process_command/>
+        <running_process_key_parameters/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group display_value="IT Securities" name="IT Securities">5f6441efc0a8010e0177fcb589156352</support_group>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_web_server</sys_class_name>
+        <sys_class_path>/!!/!(/!3/!#</sys_class_path>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2006-07-09 14:01:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5397fa53c0a8016400f562cb29027855</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>glide.maint</sys_updated_by>
+        <sys_updated_on>2006-07-11 21:42:48</sys_updated_on>
+        <tcp_port/>
+        <type>Apache</type>
+        <unverified>false</unverified>
+        <used_for/>
+        <vendor/>
+        <version>6.0</version>
+        <warranty_expiration/>
+    </cmdb_ci_web_server>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-17 13:15:41</sys_created_on>
+        <sys_id>e1dff84897ac211054c27bc11153af78</sys_id>
+        <sys_name>apache linux ny 100</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_e1dff84897ac211054c27bc11153af78</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>46d14f14a9fe19810089e2f0670b1328</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_computer">
+    <cmdb_ci_computer action="INSERT_OR_UPDATE">
+        <asset display_value="P1000168 - Dell Inc. Precision WorkStation T1600">0fc1ba8837f3100044e0bfc8bcbe5df5</asset>
+        <asset_tag>P1000168</asset_tag>
+        <assigned>2022-02-18 07:00:00</assigned>
+        <assigned_to display_value="Wayne Webb">46d14f04a9fe19810142e40c6b071512</assigned_to>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>Do not migrate to asset</category>
+        <cd_rom>false</cd_rom>
+        <cd_speed/>
+        <change_control/>
+        <chassis_type/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+        <correlation_id/>
+        <cost>1390</cost>
+        <cost_cc>USD</cost_cc>
+        <cost_center display_value="IT">d9d0a971c0a80a641c20b13d99a48576</cost_center>
+        <cpu_core_count/>
+        <cpu_core_thread/>
+        <cpu_count>1</cpu_count>
+        <cpu_manufacturer display_value="Intel">7aad6d00c611228400f00e0f80b67d2d</cpu_manufacturer>
+        <cpu_name>Intel(R) XEON(TM) CPU 2.00GHz</cpu_name>
+        <cpu_speed>1977</cpu_speed>
+        <cpu_type/>
+        <default_gateway/>
+        <delivery_date/>
+        <department display_value="IT">221f79b7c6112284005d646b76ab978c</department>
+        <discovery_source/>
+        <disk_space>37</disk_space>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count/>
+        <first_discovered/>
+        <floppy/>
+        <form_factor/>
+        <fqdn/>
+        <gl_account/>
+        <hardware_status/>
+        <hardware_substatus/>
+        <install_date>2021-10-30 08:00:00</install_date>
+        <install_status/>
+        <internet_facing>false</internet_facing>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location display_value="243 South Escondido Boulevard, Escondido,CA">f90b5d600a0a0b91001d8bf44240ad32</location>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer display_value="Dell Inc.">b7e7d7d8c0a8016900a5d7f291acce5c</manufacturer>
+        <model_id display_value="Dell Inc. Precision WorkStation T1600">46d0baa4a9fe198101b5b56215deab9e</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <most_frequent_user/>
+        <name>NESIWEW</name>
+        <object_id/>
+        <operational_status/>
+        <order_date/>
+        <os>Windows XP Professional</os>
+        <os_address_width/>
+        <os_domain/>
+        <os_service_pack>Service Pack 1</os_service_pack>
+        <os_version>5.1.2600</os_version>
+        <owned_by/>
+        <po_number/>
+        <purchase_date/>
+        <ram>511</ram>
+        <schedule/>
+        <serial_number>DB3RT11</serial_number>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_computer</sys_class_name>
+        <sys_class_path>/!!/!2/!(</sys_class_path>
+        <sys_created_by>Wwebb</sys_created_by>
+        <sys_created_on>2006-02-07 23:20:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>46d14f14a9fe19810089e2f0670b1328</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-17 02:57:59</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor display_value="Dell Inc.">b7e7d7d8c0a8016900a5d7f291acce5c</vendor>
+        <virtual>false</virtual>
+        <warranty_expiration/>
+    </cmdb_ci_computer>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-19 16:25:54</sys_created_on>
+        <sys_id>a38e376097e8a51054c27bc11153af34</sys_id>
+        <sys_name>NESIWEW</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_a38e376097e8a51054c27bc11153af34</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

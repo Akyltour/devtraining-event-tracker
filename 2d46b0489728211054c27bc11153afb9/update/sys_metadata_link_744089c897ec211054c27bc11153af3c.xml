@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b0cb50c3c0a8000900893e69d3c5885e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_server">
+    <cmdb_ci_server action="INSERT_OR_UPDATE">
+        <asset display_value="P1000204 - Dell Inc. PowerEdge M710HD Blade Server">b7c1fa8837f3100044e0bfc8bcbe5de7</asset>
+        <asset_tag>P1000204</asset_tag>
+        <assigned>2021-10-23 08:00:00</assigned>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>Do not migrate to asset</category>
+        <cd_rom>false</cd_rom>
+        <cd_speed>-1</cd_speed>
+        <change_control/>
+        <chassis_type/>
+        <checked_in/>
+        <checked_out/>
+        <classification/>
+        <comments/>
+        <company display_value="ACME Corporation">e7c1f3d53790200044e0bfc8bcbe5deb</company>
+        <correlation_id/>
+        <cost>2160</cost>
+        <cost_cc>USD</cost_cc>
+        <cost_center display_value="IT">d9d0a971c0a80a641c20b13d99a48576</cost_center>
+        <cpu_core_count/>
+        <cpu_core_thread/>
+        <cpu_count>1</cpu_count>
+        <cpu_manufacturer display_value="Intel">7aad6d00c611228400f00e0f80b67d2d</cpu_manufacturer>
+        <cpu_name/>
+        <cpu_speed>633</cpu_speed>
+        <cpu_type>GenuineIntel</cpu_type>
+        <default_gateway/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <disk_space/>
+        <dns_domain/>
+        <dr_backup/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <firewall_status/>
+        <first_discovered/>
+        <floppy/>
+        <form_factor/>
+        <fqdn/>
+        <gl_account/>
+        <hardware_status/>
+        <hardware_substatus/>
+        <host_name/>
+        <install_date>2021-07-23 07:00:00</install_date>
+        <install_status>1</install_status>
+        <internet_facing>false</internet_facing>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location display_value="5052 Clairemont Drive, San Diego,CA">f48b23070a0a0ba7001d16a64c67589a</location>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by display_value="Bow Ruggeri">f298d2d2c611227b0106c6be7f154bc8</managed_by>
+        <managed_by_group/>
+        <manufacturer display_value="Dell Inc.">b7e7d7d8c0a8016900a5d7f291acce5c</manufacturer>
+        <model_id display_value="Dell Inc. PowerEdge M710HD Blade Server">47aa6b3f3763100044e0bfc8bcbe5d76</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <most_frequent_user/>
+        <name>ApplicationServerPeopleSoft</name>
+        <object_id/>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <os>Linux Red Hat</os>
+        <os_address_width/>
+        <os_domain/>
+        <os_service_pack/>
+        <os_version/>
+        <owned_by/>
+        <po_number/>
+        <purchase_date/>
+        <ram>-1</ram>
+        <schedule/>
+        <serial_number/>
+        <short_description>PeopleSoft App Server</short_description>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_server</sys_class_name>
+        <sys_class_path>/!!/!2/!(/!!</sys_class_path>
+        <sys_created_by>pat</sys_created_by>
+        <sys_created_on>2004-08-30 17:43:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b0cb50c3c0a8000900893e69d3c5885e</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-17 02:59:03</sys_updated_on>
+        <unverified>false</unverified>
+        <used_for/>
+        <vendor display_value="Dell Inc.">b7e7d7d8c0a8016900a5d7f291acce5c</vendor>
+        <virtual>false</virtual>
+        <warranty_expiration/>
+    </cmdb_ci_server>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-17 13:17:33</sys_created_on>
+        <sys_id>744089c897ec211054c27bc11153af3c</sys_id>
+        <sys_name>ApplicationServerPeopleSoft</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_744089c897ec211054c27bc11153af3c</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

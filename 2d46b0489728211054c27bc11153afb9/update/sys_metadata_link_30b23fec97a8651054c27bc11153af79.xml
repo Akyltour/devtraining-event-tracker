@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>28ca8f92c0a8000b00927472b0cb6a95</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_peripheral">
+    <cmdb_ci_peripheral action="INSERT_OR_UPDATE">
+        <asset display_value="P1000891 - Unknown">83c1ba8837f3100044e0bfc8bcbe5db8</asset>
+        <asset_tag>P1000891</asset_tag>
+        <assigned/>
+        <assigned_to display_value="Joe Employee">681ccaf9c0a8016400b98a06818d57c7</assigned_to>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+        <computer/>
+        <correlation_id/>
+        <cost>0</cost>
+        <cost_cc>USD</cost_cc>
+        <cost_center display_value="Sales">7fb1cc99c0a80a6d30c04574d14c0acf</cost_center>
+        <delivery_date/>
+        <department display_value="Sales">221db0edc611228401760aec06c9d929</department>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location display_value="3121 High Point Road, Greensboro,NC">25ab9ddd0a0a0bb3003572b22b3b4e55</location>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id display_value="Unknown">35aaaa0837f3100044e0bfc8bcbe5df5</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>KIOSK Keyboard</name>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <po_number/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_peripheral</sys_class_name>
+        <sys_class_path>/!!/!W</sys_class_path>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2007-11-10 09:01:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>28ca8f92c0a8000b00927472b0cb6a95</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2012-02-25 22:47:29</sys_updated_on>
+        <type/>
+        <unverified>false</unverified>
+        <vendor/>
+        <warranty_expiration/>
+    </cmdb_ci_peripheral>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-19 15:34:07</sys_created_on>
+        <sys_id>30b23fec97a8651054c27bc11153af79</sys_id>
+        <sys_name>KIOSK Keyboard</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_30b23fec97a8651054c27bc11153af79</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>66a9ac0d3790200044e0bfc8bcbe5d7a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_computer">
+    <cmdb_ci_computer action="INSERT_OR_UPDATE">
+        <asset display_value="P1000491 - Apple MacBook Pro 15&quot;">6aa9ac0d3790200044e0bfc8bcbe5d79</asset>
+        <asset_tag>P1000491</asset_tag>
+        <assigned>2021-07-20 07:00:00</assigned>
+        <assigned_to display_value="Samantha Bordwell">96826bf03710200044e0bfc8bcbe5db4</assigned_to>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>Hardware</category>
+        <cd_rom>false</cd_rom>
+        <cd_speed/>
+        <change_control/>
+        <chassis_type/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company display_value="ACME France">81fbfe03ac1d55eb286d832de58ae1fd</company>
+        <correlation_id/>
+        <cost>1799.99</cost>
+        <cost_cc>USD</cost_cc>
+        <cost_center display_value="IT">d9d0a971c0a80a641c20b13d99a48576</cost_center>
+        <cpu_core_count>1</cpu_core_count>
+        <cpu_core_thread/>
+        <cpu_count>1</cpu_count>
+        <cpu_manufacturer/>
+        <cpu_name/>
+        <cpu_speed/>
+        <cpu_type/>
+        <default_gateway/>
+        <delivery_date>2021-01-04 07:00:00</delivery_date>
+        <department display_value="IT">221f79b7c6112284005d646b76ab978c</department>
+        <discovery_source/>
+        <disk_space/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <floppy/>
+        <form_factor/>
+        <fqdn/>
+        <gl_account/>
+        <hardware_status>installed</hardware_status>
+        <hardware_substatus/>
+        <install_date>2021-03-03 07:00:00</install_date>
+        <install_status>1</install_status>
+        <internet_facing>false</internet_facing>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location display_value="27, Boulevard Vitton, Paris">8226baa4ac1d55eb40eb653c02649519</location>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer display_value="Apple">b7e9e843c0a80169009a5a485bb2a2b5</manufacturer>
+        <model_id display_value="Apple MacBook Pro 15&quot;">d501454f1b1310002502fbcd2c071334</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <most_frequent_user/>
+        <name>MacBook Pro 15"</name>
+        <object_id/>
+        <operational_status>1</operational_status>
+        <order_date>2020-12-11 08:00:00</order_date>
+        <os>Mac OS 10 (OS/X)</os>
+        <os_address_width/>
+        <os_domain/>
+        <os_service_pack/>
+        <os_version/>
+        <owned_by/>
+        <po_number>PO100008</po_number>
+        <purchase_date>2020-12-21</purchase_date>
+        <ram/>
+        <schedule/>
+        <serial_number>CHI-395-S93814-RN</serial_number>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory>Computer</subcategory>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_computer</sys_class_name>
+        <sys_class_path>/!!/!2/!(</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2012-02-18 08:14:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>66a9ac0d3790200044e0bfc8bcbe5d7a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-17 02:58:31</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor display_value="Apple">b7e9e843c0a80169009a5a485bb2a2b5</vendor>
+        <virtual>false</virtual>
+        <warranty_expiration>2024-03-02</warranty_expiration>
+    </cmdb_ci_computer>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-19 15:50:54</sys_created_on>
+        <sys_id>aa86bbec97ac651054c27bc11153af00</sys_id>
+        <sys_name>MacBook Pro 15"</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_aa86bbec97ac651054c27bc11153af00</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5f5c4854c0a8010e00c202b418f5b73b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_service">
+    <cmdb_ci_service action="INSERT_OR_UPDATE">
+        <aliases/>
+        <asset display_value="Unknown">c0c13e8837f3100044e0bfc8bcbe5d50</asset>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <busines_criticality>1 - most critical</busines_criticality>
+        <business_contact/>
+        <business_need/>
+        <business_relation_manager/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control display_value="ITSM Engineering" name="ITSM Engineering">5f721d93c0a8010e015533746de18bf9</change_control>
+        <checked_in/>
+        <checked_out/>
+        <checkout/>
+        <comments/>
+        <company/>
+        <compatibility_dependencies/>
+        <consumer_type/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <delivery_date/>
+        <delivery_manager/>
+        <department/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <end_date/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <last_review_date/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location display_value="450 West 14th Avenue, Denver,CO">5f715265c0a8010e00f046fefa466a9c</location>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by display_value="Roger Rasmussen">5f72e70ac0a8010e003e479c72d75d47</managed_by>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id display_value="Unknown">e8aaeb3f3763100044e0bfc8bcbe5d20</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <monitoring_requirements/>
+        <name>Client Services</name>
+        <number/>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by display_value="James Vittolo">5f728212c0a8010e004a13c7588047dd</owned_by>
+        <parent/>
+        <po_number/>
+        <portfolio_status/>
+        <prerequisites/>
+        <price_model/>
+        <price_unit/>
+        <published_ref/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <service_classification/>
+        <service_level_requirement/>
+        <service_owner_delegate/>
+        <service_status/>
+        <short_description>Client Services Description</short_description>
+        <skip_sync>false</skip_sync>
+        <sla display_value="Finance 99.99">5f78c96cc0a8010e01299db51d651a29</sla>
+        <spm_service_portfolio/>
+        <spm_taxonomy_node/>
+        <stakeholders/>
+        <start_date/>
+        <state/>
+        <subcategory/>
+        <support_group display_value="ITSM Engineering" name="ITSM Engineering">5f721d93c0a8010e015533746de18bf9</support_group>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_service</sys_class_name>
+        <sys_class_path>/!!/!7</sys_class_path>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2006-07-11 20:51:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5f5c4854c0a8010e00c202b418f5b73b</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2012-01-21 19:00:12</sys_updated_on>
+        <unit_description/>
+        <unverified>false</unverified>
+        <used_for>Production</used_for>
+        <user_group/>
+        <vendor/>
+        <version>7</version>
+        <warranty_expiration/>
+    </cmdb_ci_service>
+    <sys_translated_text action="delete_multiple" query="documentkey=5f5c4854c0a8010e00c202b418f5b73b"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-19 08:55:06</sys_created_on>
+        <sys_id>bf57da6897e0251054c27bc11153af8b</sys_id>
+        <sys_name>Client Services</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_bf57da6897e0251054c27bc11153af8b</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

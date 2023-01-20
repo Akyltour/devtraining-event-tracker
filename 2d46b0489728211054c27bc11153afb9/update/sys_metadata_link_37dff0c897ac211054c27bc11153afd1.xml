@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>81f45136c0a8018b41d3e71bf532fec5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_computer">
+    <cmdb_ci_computer action="INSERT_OR_UPDATE">
+        <asset display_value="P1000177 - Apple MacBook Pro 15&quot;">13c1fa8837f3100044e0bfc8bcbe5d38</asset>
+        <asset_tag>P1000177</asset_tag>
+        <assigned>2022-04-05 07:00:00</assigned>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>Do not migrate to asset</category>
+        <cd_rom>false</cd_rom>
+        <cd_speed/>
+        <change_control/>
+        <chassis_type/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+        <correlation_id/>
+        <cost>1799.99</cost>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <cpu_core_count/>
+        <cpu_core_thread/>
+        <cpu_count>1</cpu_count>
+        <cpu_manufacturer/>
+        <cpu_name/>
+        <cpu_speed/>
+        <cpu_type/>
+        <default_gateway/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <disk_space/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <floppy/>
+        <form_factor/>
+        <fqdn/>
+        <gl_account/>
+        <hardware_status>in_stock</hardware_status>
+        <hardware_substatus>available</hardware_substatus>
+        <install_date>2021-10-21 08:00:00</install_date>
+        <install_status/>
+        <internet_facing>false</internet_facing>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location display_value="615 North Bush Street, Santa Ana,CA">f90735e70a0a0b9100de208fbc63907d</location>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer display_value="Apple">b7e9e843c0a80169009a5a485bb2a2b5</manufacturer>
+        <model_id display_value="Apple MacBook Pro 15&quot;">d3bb6a2eac10019b4fa294baf5775f21</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <most_frequent_user/>
+        <name>Apple - MacBook Pro 15" for Technical Staff</name>
+        <object_id/>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <os>Mac OS 10 (OS/X)</os>
+        <os_address_width/>
+        <os_domain/>
+        <os_service_pack/>
+        <os_version/>
+        <owned_by/>
+        <po_number/>
+        <purchase_date/>
+        <ram/>
+        <schedule/>
+        <serial_number>W89407AC7XA</serial_number>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_computer</sys_class_name>
+        <sys_class_path>/!!/!2/!(</sys_class_path>
+        <sys_created_by>dariusz.maint</sys_created_by>
+        <sys_created_on>2011-09-14 11:23:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>81f45136c0a8018b41d3e71bf532fec5</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-17 02:58:00</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor display_value="Apple">b7e9e843c0a80169009a5a485bb2a2b5</vendor>
+        <virtual>false</virtual>
+        <warranty_expiration/>
+    </cmdb_ci_computer>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-17 13:15:50</sys_created_on>
+        <sys_id>37dff0c897ac211054c27bc11153afd1</sys_id>
+        <sys_name>Apple - MacBook Pro 15" for Technical Staff</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_37dff0c897ac211054c27bc11153afd1</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>46bbf3eaa9fe198100c50438124e7a23</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_computer">
+    <cmdb_ci_computer action="INSERT_OR_UPDATE">
+        <asset display_value="P1000224 - Gateway DX Series">83c1ba8837f3100044e0bfc8bcbe5dd2</asset>
+        <asset_tag>P1000224</asset_tag>
+        <assigned>2021-12-15 08:00:00</assigned>
+        <assigned_to display_value="Ted Bozelle">46bbf3daa9fe1981001fd0ccdd391f83</assigned_to>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>Do not migrate to asset</category>
+        <cd_rom>false</cd_rom>
+        <cd_speed/>
+        <change_control/>
+        <chassis_type/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+        <correlation_id/>
+        <cost>699.99</cost>
+        <cost_cc>USD</cost_cc>
+        <cost_center display_value="IT">d9d0a971c0a80a641c20b13d99a48576</cost_center>
+        <cpu_core_count/>
+        <cpu_core_thread/>
+        <cpu_count>2</cpu_count>
+        <cpu_manufacturer display_value="Intel">7aad6d00c611228400f00e0f80b67d2d</cpu_manufacturer>
+        <cpu_name>Intel(R) Pentium(R) 4 CPU 3.40GHz</cpu_name>
+        <cpu_speed>3391</cpu_speed>
+        <cpu_type/>
+        <default_gateway/>
+        <delivery_date/>
+        <department display_value="IT">221f79b7c6112284005d646b76ab978c</department>
+        <discovery_source/>
+        <disk_space>228</disk_space>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count/>
+        <first_discovered/>
+        <floppy/>
+        <form_factor/>
+        <fqdn/>
+        <gl_account/>
+        <hardware_status/>
+        <hardware_substatus/>
+        <install_date>2021-08-31 08:00:00</install_date>
+        <install_status>1</install_status>
+        <internet_facing>false</internet_facing>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location display_value="4492 Camino De La Plaza, San Ysidro,CA">f90aa2f50a0a0b9100576930575aa596</location>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer display_value="Gateway">b7eafc3ec0a80169017bc0ac7b4fc209</manufacturer>
+        <model_id display_value="Gateway DX Series">46bbf3cba9fe1981000545a67695b505</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <most_frequent_user/>
+        <name>8400-053105</name>
+        <object_id/>
+        <operational_status/>
+        <order_date/>
+        <os>Windows XP Professional</os>
+        <os_address_width/>
+        <os_domain/>
+        <os_service_pack>Service Pack 2</os_service_pack>
+        <os_version>5.1.2600</os_version>
+        <owned_by/>
+        <po_number/>
+        <purchase_date/>
+        <ram>1022</ram>
+        <schedule/>
+        <serial_number>FT1S171</serial_number>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_computer</sys_class_name>
+        <sys_class_path>/!!/!2/!(</sys_class_path>
+        <sys_created_by>BEVERLYS</sys_created_by>
+        <sys_created_on>2006-02-07 22:57:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>46bbf3eaa9fe198100c50438124e7a23</sys_id>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-17 02:58:41</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor display_value="Gateway">b7eafc3ec0a80169017bc0ac7b4fc209</vendor>
+        <virtual>false</virtual>
+        <warranty_expiration/>
+    </cmdb_ci_computer>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>pierre.charrier</sys_created_by>
+        <sys_created_on>2023-01-17 13:11:27</sys_created_on>
+        <sys_id>a3de7804972c211054c27bc11153af05</sys_id>
+        <sys_name>8400-053105</sys_name>
+        <sys_package display_value="Event tracker" source="x_925644_evt_trckr">2d46b0489728211054c27bc11153afb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event tracker">2d46b0489728211054c27bc11153afb9</sys_scope>
+        <sys_update_name>sys_metadata_link_a3de7804972c211054c27bc11153af05</sys_update_name>
+        <tablename>cmdb_ci</tablename>
+        <u_actions>0a3172c897d0a1901717f9271153afed</u_actions>
+    </sys_metadata_link>
+</record_update>
